@@ -16,7 +16,7 @@ library(tidyverse)
 ui <- fluidPage(
     #Navigation Bar
     navbarPage(
-        "William Sonoma Data Lab",
+        "Oscars Data Lab",
         #TAB 1
         tabPanel("Manage Data",
                  sidebarLayout(
